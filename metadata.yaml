@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7279
     wikipedia: http://en.wikipedia.org/wiki/Marc_Monnier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17290#The-Wonders-of-Pompeii
 gutenberg_issued: '2005-12-12'
 gutenberg_type: Text
 identifiers:
